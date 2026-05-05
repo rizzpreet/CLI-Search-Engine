@@ -12,6 +12,14 @@ A Data Structures & Algorithms project implementing a search engine via command 
 g++ -o search main.cpp src/*.cpp -I include
 ./search
 ```
+## Contributing
+
+We're actively looking for contributors to help build:
+- 🔧 Backend API
+- 📊 Database layer
+- 🔐 Authentication system
+
+See [GitHub Issues](link) for open tasks.
 
 ## Author
 HashimMatloob
